@@ -1,6 +1,6 @@
 #![feature(inline_const)]
-#![feature(is_some_and)]
 #![feature(let_chains)]
+#![feature(is_some_and)]
 
 mod board;
 mod game;
