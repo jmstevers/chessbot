@@ -1,9 +1,5 @@
 # chessbot
-making this to practice string parsing as well as handling state
+making this to practice string parsing as well as handling state (also ai maybe)
 
-# TODO
-- [ ] moving pieces
-- [ ] taking pieces
-- [ ] input from terminal
-- [ ] natural chess language (e4, Nf6, dxc7, etc.) as input
-- [ ] ai to play against
+# current goals
+- parse algebraic chess notation into board position (ex. in starting chess position d4 would give back: from(6,3) to(4,3))
